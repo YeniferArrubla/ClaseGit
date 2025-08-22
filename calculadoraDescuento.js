@@ -1,5 +1,6 @@
 //Ejercicio: Calculadora de Descuento
-//Escribe un programa que calcule el precio final de un producto después de aplicar un descuento. Pide al usuario que ingrese el precio original del producto y el porcentaje de descuento, y muestra el precio final.
+//Escribe un programa que calcule el precio final de un producto después de aplicar un descuento. 
+// Pide al usuario que ingrese el precio original del producto y el porcentaje de descuento, y muestra el precio final.
 
 const prompt = require('prompt-sync')();
 //1. Pedir el precio original del producto
